@@ -6,4 +6,5 @@ Changes:
   2.  Save to F(...).txt prompt
 
 
-![image](https://github.com/user-attachments/assets/f214c155-ee8e-44f0-9e30-8f4ee23239e7)
+![image](https://github.com/user-attachments/assets/fe3e58f9-862f-4fab-9889-390d686fa936)
+
